@@ -21,7 +21,7 @@ This project has been tested on the Galaxy s10 5G.
 
 ## **How to Use**
 
-### facedetector: Face ROI detection
+### Face ROI detection
 
 The "facedetector.onnx" that detects the face ROI in image (input image resolution: 320 x 240, output result: Vector<Vector<Float>> boxes)
 
