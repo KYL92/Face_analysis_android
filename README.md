@@ -4,7 +4,7 @@
 
 *This project based on [3DDFA Method](https://github.com/cleardusk/3DDFA) and [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB).
 
-# Required SDK, NDK version
+### Required SDK, NDK version
 
 - Android SDK 21~30
 - Android NDK r21d
@@ -19,7 +19,7 @@ ndk.dir = /Users/Name/Documents/Android/android-ndk-r21d
 
 This project has been tested on the Galaxy s10 5G.
 
-## facedetector: Face ROI detection
+### facedetector: Face ROI detection
 
 The "facedetector.onnx" that detects the face ROI in image (input image resolution: 320 x 240, output result: Vector<Vector<Float>> boxes)
 
@@ -70,7 +70,7 @@ resizedbitmap = Bitmap.createScaledBitmap(bitmap_, 320, 240, true);// resize
 output_boxs = face_detector.detection(resizedbitmap);
 ```
 
-## 3DDFA based Face landmark detection
+### 3DDFA based Face landmark detection
 
 TDDFA.onnx that detects facial features from camera images (input image resolution: 120 x 120, output result: Vector<Vector<Float>> vertexs)
 
