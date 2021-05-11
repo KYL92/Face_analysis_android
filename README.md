@@ -18,6 +18,7 @@ ndk.dir = /Users/Name/Documents/Android/android-ndk-r21d
 ```
 
 This project has been tested on the Galaxy s10 5G.
+In this test device, the face detection and landmark detection speed per frame is measured around 10~20ms.
 
 ## **How to Use**
 
