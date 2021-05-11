@@ -2,6 +2,8 @@
 
 ## **Build Instructions**
 
+*This project based on [3DDFA Method](https://github.com/cleardusk/3DDFA) and [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light -Fast-Generic-Face-Detector-1MB).
+
 # Required SDK, NDK version
 
 - Android SDK 21~30
