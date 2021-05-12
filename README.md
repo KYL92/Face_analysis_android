@@ -8,7 +8,7 @@ This project based on [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://githu
 
 - Android SDK 21~30
 - Android NDK r21d
-- Need to install CMAKE in Android Studio's "SDK tools"
+- Need to install CMAKE on Android Studio
 
 Open the local.properties file in the project and set ndk.dir to the Android NDK folder path.
 
