@@ -2,7 +2,7 @@
 
 ## **Build Instructions**
 
-This project based on [3DDFA Method](https://github.com/cleardusk/3DDFA) and [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB).
+This project based on [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) and [3DDFA Method](https://github.com/cleardusk/3DDFA).
 
 ### Required SDK, NDK version
 
